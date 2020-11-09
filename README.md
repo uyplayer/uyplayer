@@ -1,5 +1,5 @@
 
-### Hi there this is uyplayer👋
+### Hi folks this is uyplayer👋
 ### just a normal uyghur guy
 ### just visit my blog : [uyplayer's blog](https://uyplayer.pw)
 
