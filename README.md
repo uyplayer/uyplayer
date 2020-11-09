@@ -1,7 +1,7 @@
 
 ### Hi folks this is uyplayer👋
 ### just a normal uyghur guy
-### just visit my blog : [uyplayer's blog](https://uyplayer.pw)
+### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning MachineLearning , NLP , Linux , Web
