@@ -4,9 +4,8 @@
 ### Hi there this is uyplayer👋
 ### [uyplayer's blog](https://uyplayer.pw)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning machinelearning,NLP,Linux
-- 💬 Ask me about ...
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently learning MachineLearning,NLP,Linux,Web
 - 📫 How to reach me: 32848979@qq.com
 - ⚡ Fun fact: PUBG,Need for Speed,
 
