@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **32848979@qq.com / uyplayer@outlook.com**
 
-- ⚡ Fun fact **I love to play PUBG , Need for Speed , CS and listen music , some sport**
+- ⚡ Fun fact **I love to play PUBG , Need for Speed , Clash of Clans , Machinarium , CS and listen music , some sport**
 
 
 <h3 align="left">Languages and Tools:</h3>
