@@ -40,3 +40,6 @@
 ![avatar](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
 ![avatar](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)
 ![avatar](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
+![avatar](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+![avatar](https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge)
+![avatar](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=for-the-badge)
