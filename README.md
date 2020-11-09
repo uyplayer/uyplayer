@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning MachineLearning , NLP , Linux , Web
-- 📫 How to reach me: 32848979@qq.com
+- 📫 How to reach me: 32848979@qq.com / uyplayer@outlook.com
 - ⚡ Fun fact: I love to play PUBG , Need for Speed , CS and listen music
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyplayer)](https://github.com/uyplayer/)
