@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play PUBG , Need , CS for Speed and listen music
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyplayer)](https://github.com/uyplayer/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyplayer)](https://github.com/uyplayer/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyplayer)](https://github.com/uyplayer/wc-tool)
 
 
 
