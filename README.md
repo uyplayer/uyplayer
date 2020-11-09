@@ -1,10 +1,12 @@
 
-### Hi folks this is uyplayer👋
-### just a funny guy
-### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
+
 
 <h1 align="center">Hi 👋, I'm uyplayer</h1>
 <h3 align="center">A passionate programming from somewhere</h3>
+
+### Hi folks this is uyplayer👋
+### just a funny guy
+### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
 
 - 🔭 I’m currently working on **some projects**
 
