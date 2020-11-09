@@ -1,7 +1,9 @@
 
 ### Hi folks this is uyplayer👋
-### just a normal uyghur guy
+### just a funny guy
 ### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
+
+https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning MachineLearning , NLP , Linux , Web
