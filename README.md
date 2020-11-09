@@ -9,8 +9,8 @@
 - ⚡ Fun fact: PUBG,Need for Speed,
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyplayer)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyplayer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uyplayer)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyplayer)]
 
 
 
