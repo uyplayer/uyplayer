@@ -18,7 +18,7 @@
 
 - 📝 I regulary write articles on [https://uyplayer.pw](https://uyplayer.pw)
 
-- 💬 Ask me about **MachineLearning , NLP , Linux , Web**
+- 💬 Ask me about **NLP , Linux , Web**
 
 - 📫 How to reach me **32848979@qq.com / uyplayer@outlook.com**
 
