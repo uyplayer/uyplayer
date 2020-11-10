@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **some projects**
 
-- 🌱 I’m currently learning **learning MachineLearning , NLP , Linux , Web**
+- 🌱 I’m currently learning **MachineLearning , NLP , Linux , Web**
 
 - 👯 I’m looking to collaborate on **C , Linux**
 
