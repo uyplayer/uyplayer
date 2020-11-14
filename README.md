@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **some projects**
 
-- 🌱 I’m currently learning **Linux , Web , C, MachineLearning , NLP**
+- 🌱 I’m currently learning **Sentiment Analysis , Linux , Web , C, MachineLearning , NLP**
 
-- 👯 I’m looking to collaborate on **C , Linux**
+- 👯 I’m looking to collaborate on **C , Linux , Sentiment Analysis , Web , MachineLearning , NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uyplayer?tab=repositories](https://github.com/uyplayer?tab=repositories)
 
