@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Sentiment Analysis , Linux , NLP**
 
-- 👯 I’m looking to collaborate on **TTS for Uyghur language**
+- 👯 I’m looking to collaborate on **TTS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uyplayer?tab=repositories](https://github.com/uyplayer?tab=repositories)
 
