@@ -8,7 +8,7 @@
 ### just a funny guy
 ### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
 
-- 🔭 I’m currently working on **some projects**
+- 🔭 I’m currently working on **some projects and I love to do stuff with ML**
 
 - 🌱 I’m currently learning **Sentiment Analysis , Linux , Web , C, MachineLearning , NLP**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regulary write articles on [https://uyplayer.pw](https://uyplayer.pw)
 
-- 💬 Ask me about **NLP , Linux , Web , ML and now fucusing on FinML , scrpto cryptocurrency**
+- 💬 Ask me about **NLP , Linux , Web , ML and now fucusing on FinML , cryptocurrency**
 
 - 📫 How to reach me **32848979@qq.com / uyplayer@outlook.com**
 
