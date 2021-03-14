@@ -8,17 +8,17 @@
 ### just a funny guy
 ### folks visit my blog : [uyplayer's blog](https://uyplayer.pw)
 
-- 🔭 I’m currently working on **some projects and I love to do stuff with ML**
+- 🔭 I’m currently working on **some projects and I love to do stuffs with ML**
 
 - 🌱 I’m currently learning **Sentiment Analysis , Linux , Web , C, MachineLearning , NLP**
 
-- 👯 I’m looking to collaborate on **C , Linux , Sentiment Analysis , Web , MachineLearning , NLP**
+- 👯 I’m looking to collaborate on **TTS for Uyghur language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uyplayer?tab=repositories](https://github.com/uyplayer?tab=repositories)
 
 - 📝 I regulary write articles on [https://uyplayer.pw](https://uyplayer.pw)
 
-- 💬 Ask me about **NLP , Linux , Web , ML and now fucusing on FinML , cryptocurrency**
+- 💬 Ask me about **NLP , Linux , Web , Deep Learning**
 
 - 📫 How to reach me **32848979@qq.com / uyplayer@outlook.com**
 
