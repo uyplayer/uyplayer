@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **some projects and I love to do stuffs with ML**
 
-- 🌱 I’m currently learning **Sentiment Analysis , Linux , Web , C, MachineLearning , NLP**
+- 🌱 I’m currently learning **Sentiment Analysis , Linux , NLP**
 
 - 👯 I’m looking to collaborate on **TTS for Uyghur language**
 
