@@ -1,4 +1,3 @@
-# github-profile
 
 ### :heart: Digging into Rust & Quantum Trading with :heart:  
 
