@@ -1,5 +1,5 @@
 
-### :heart: Digging into Rust & Quantum Trading with :heart:  
+### - Learning  Rust by :heart:  
 
 
 
