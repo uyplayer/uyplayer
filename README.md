@@ -1,6 +1,5 @@
 
-### Rust Beginner by :heart:  
-### Quatum Trader with :heart:  
+### Rust Beginner by :heart: & Quantum Trader with :heart:  
 
 
 
