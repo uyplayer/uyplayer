@@ -1,6 +1,7 @@
 # github-profile
 
-## Digging into Rust with :heart:  quantum trading
+### Digging into Rust with :heart:  
+### Digging into Quantum Trading with :heart:  
 
 
 
