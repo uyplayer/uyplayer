@@ -1,7 +1,6 @@
 # github-profile
 
-I love code  
-digging into rust and quantum trading
+## Digging into Rust with :heart:  quantum trading
 
 
 
