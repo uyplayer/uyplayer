@@ -1,5 +1,5 @@
 
-### Rust Beginner by :heart: & Quantum Trader with :heart:  
+###  doing funny stuff  :heart:  
 
 
 
